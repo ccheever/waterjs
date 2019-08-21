@@ -1,0 +1,2 @@
+# waterjs
+stable, simple, everywhere
